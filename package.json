@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/dirtydenny/svg#readme",
   "dependencies": {
-    "inquirer": "^8.2.5",
+    "inquirer": "^8.2.4",
     "jest": "^28.1.3"
   }
 }
