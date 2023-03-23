@@ -17,7 +17,9 @@
     
 
   ## License 
-     For more info, please follow the link below.
+  
+  For more info, please follow the link below.  
+  
   [LINK](https://opensource.org/license/MIT)
 
   ## Description
