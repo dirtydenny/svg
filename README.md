@@ -22,7 +22,7 @@
 
   ## Description
 
-  This application helps create a simple log for your company, project, or whatever may need a quick, simple Logo.
+  This application helps create a simple logo for your company, project, or whatever may need a quick, simple logo.
 
   ## Installation
 
@@ -36,15 +36,17 @@
 
   npm test
 
+  Run 'npm test' from the command line.
+
   Tests and functionality for this applcation can be seen here.
 
-  [Full Test Video](./videos/fail_test_control-functionality-pass_test.mp4)
+  [Full Test Video](https://watch.screencastify.com/v/iI8WnVr2Dd0Msboh2u3r)
 
-  [Error_Test](./videos/failed%20test.mp4)
+  [Error_Test](https://watch.screencastify.com/v/nR4Ex7LcSCCjNoKo7WhA)
 
-  [Functionality](./videos/functionality%20test%20good.mp4)
+  [Functionality](https://watch.screencastify.com/v/9vsIuiQr8hcGYxkTgaP0)
 
-  [Passed_Test](./videos/test%20passed%20video.mp4)
+  [Passed_Test](https://watch.screencastify.com/v/rg72yVc4ZCnYnroqK1XZ)
   ## Questions
 
   Thank you for using my application.  Please submit questions to dallen7@socal.rr.com.  Also, visit me at 
