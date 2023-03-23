@@ -22,7 +22,7 @@
 
   ## Description
 
-  This application helps create a simple log for your company, project, or whatever may need a quick , simple Logo.
+  This application helps create a simple log for your company, project, or whatever may need a quick, simple Logo.
 
   ## Installation
 
@@ -30,12 +30,21 @@
 
   ## Usage
 
-  From the command line, cd to the directory holding the index.js file.  run 'npm i' from the command line.  Run 'node index.js'.
+  From the command line, cd to the directory holding the index.js file.  Run 'npm i' from the command line.  Run 'node index.js'.  Your new logo will be in the directory and named Logo.SVG.
 
   ## Tests
 
   npm test
 
+  Tests and functionality for this applcation can be seen here.
+
+  [Full Test Video](./videos/fail_test_control-functionality-pass_test.mp4)
+
+  [Error_Test](./videos/failed%20test.mp4)
+
+  [Functionality](./videos/functionality%20test%20good.mp4)
+
+  [Passed_Test](./videos/test%20passed%20video.mp4)
   ## Questions
 
   Thank you for using my application.  Please submit questions to dallen7@socal.rr.com.  Also, visit me at 
